@@ -8,6 +8,9 @@ body{
     margin: 0px;
     padding: 0px;
 }
+.divine{
+    font-size: 20px;
+}
 
 .navbar{
     position: fixed;
@@ -106,7 +109,7 @@ body{
 .myPhoto{
     width: 50%;
     height: auto;
-    background-color: rgb(15, 15, 15) !important;
+    background-color: rgb(15, 15, 15);
     border-top-right-radius: 50px;
     border-bottom-right-radius: 50px;
     text-align: end;
@@ -127,7 +130,7 @@ body{
     height: 90vh;
 }
 .footer{
-    background-color: black !important;
+    background-color:grey !important;
 }
 
 input{
